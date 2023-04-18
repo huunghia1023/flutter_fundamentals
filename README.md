@@ -1,2 +1,2 @@
 # flutter_fundamentals
-Flutter app for learing
+Flutter app for learning
